@@ -18,25 +18,25 @@ It is a complete **industry-standard data analytics pipeline** including data cl
 
 # 📂 Folder Structure
 
-📁 Customer-Behavior-Analysis-Using-Python-SQL-Power-BI
+Customer-Behavior-Analysis-Using-Python-SQL-Power-BI
 │
 ├── 📊 Dashboard/
-│ └── Customer Behavior Dashboard.pbix
+│   └── Customer Behavior Dashboard.pbix
 │
 ├── 📁 Data/
-│ └── customer_shopping_behavior.csv
+│   └── customer_shopping_behavior.csv
 │
 ├── 🧠 Notebooks/
-│ └── Customer_Shopping_Behavior_Analysis.ipynb
+│   └── Customer_Shopping_Behavior_Analysis.ipynb
 │
 ├── 🗄️ SQL/
-│ ├── Customer Behavior Analysis SQL Queries.sql
-│ └── SQL Queries.pdf
+│   ├── Customer Behavior Analysis SQL Queries.sql
+│   └── SQL Queries.pdf
 │
 ├── 📄 Documents/
-│ ├── Business Problem Document.pdf
-│ ├── Customer Shopping Behavior Analysis.pdf
-│ └── Customer-Shopping-Behavior-Analysis.pptx
+│   ├── Business Problem Document.pdf
+│   ├── Customer Shopping Behavior Analysis.pdf
+│   └── Customer-Shopping-Behavior-Analysis.pptx
 │
 └── 📝 README.md
 
@@ -57,12 +57,13 @@ This project analyzes customer patterns to deliver **actionable insights**.
 ---
 
 
-🛠️ Tools & Technologies
-Tool	Purpose
-SQL Server Data cleaning + analysis
-Python	EDA & visualization
-Power BI	Dashboard & reporting
-GitHub	Version control & publishing
+| Tool           | Purpose                                                                             |
+| -------------- | ----------------------------------------------------------------------------------- |
+| **SQL Server** | Used for data cleaning, transformation, and performing analytical queries.          |
+| **Python**     | Used for exploratory data analysis (EDA), statistical insights, and visualizations. |
+| **Power BI**   | Used to build interactive dashboards and business reports for insights.             |
+| **GitHub**     | Used for version control, documentation, and publishing the complete project.       |
+
 
 📄 Project Deliverables
 
